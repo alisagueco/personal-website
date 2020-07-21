@@ -58,7 +58,6 @@ ul {
   list-style-type: none;
   background-color: coral;
   width: 15%;
- 
 }
 li {
   display: inline;
@@ -89,4 +88,8 @@ li a:hover {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-evenly;
+}
+.intropara {
+  padding: 50px;
+  border: 5px coral;
 }
