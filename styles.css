@@ -47,5 +47,20 @@ h1 {
 }
 
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
-
+ul {
+  list-style-type: none;
+  background-color: coral;
+}
+li {
+  display: inline;
+}
+li a {
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  font-size
+}
 /*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;*/
+.container {
+  display: flex;
+}
