@@ -23,7 +23,6 @@ p {
   padding-bottom: 1em;
   font-family: "Quicksand", sans-serif;
 }
-
 /* Name displayed on Home Page*/
 h1 {
   font-size: 4em;
@@ -34,6 +33,9 @@ h2 {
   font-size: 2.5em;
   color: coral;
   font-family: "Poiret One", cursive;
+}
+h4 {
+  color: grey;
 }
 title {
   font-size: 2.5em;
@@ -56,14 +58,14 @@ title {
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
 ul {
   list-style-type: none;
-  background-color: coral;
+  background-color: white;
   width: 15%;
 }
 li {
   display: inline;
 }
 li a {
-  color: white;
+  color: coral;
   text-decoration: none;
   text-align: center;
   font-size: 1.2em;
