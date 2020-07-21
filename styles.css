@@ -29,6 +29,7 @@ h1 {
   color: coral;
   font-family: "Poiret One", cursive;
 }
+/* About Me displayed on Home Page*/
 h2 {
   font-size: 2.5em;
   color: coral;
@@ -37,8 +38,9 @@ h2 {
 h4 {
   color: grey;
 }
+/*My name on home page */
 title {
-  font-size: 2.5em;
+  font-size: 2.5 em;
   color: coral;
   font-family: "Poiret One", cursive;
 }
@@ -46,7 +48,7 @@ title {
 #main-img {
   border-radius: 50%;
   max-height: 250px;
-  margin-bottom: 2em;
+  margin-bottom: 1em;
   border: 3px solid coral;
 }
 /* Portfolio Images */
@@ -58,8 +60,8 @@ title {
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
 ul {
   list-style-type: none;
-  background-color: white;
-  width: 15%;
+  background-color: coral;
+  width: 100%;
 }
 li {
   display: inline;
@@ -67,7 +69,7 @@ li {
 li a {
   color: coral;
   text-decoration: none;
-  text-align: center;
+  text-align: left;
   font-size: 1.2em;
 }
 li a:hover {
