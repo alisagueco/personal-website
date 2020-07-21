@@ -51,6 +51,7 @@ title {
 #main-img {
   border-radius: 50%;
   max-height: 250px;
+  margin-top: 1em;
   margin-bottom: 1em;
   border: 3px solid coral;
 }
@@ -58,6 +59,13 @@ title {
 .port-img {
   border-radius: 10%;
   max-height: 20em;
+}
+/* SIP Image on blog */
+#sip-img {
+  border-radius: 75%;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  border: 5px solid coral;
 }
 
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
@@ -100,8 +108,6 @@ li a:hover {
 .intropara {
   padding: 50px;
 }
-.blog-content {
+.blog {
   padding: 50px;
 }
-/* Name on Homepage and Image */
-.
