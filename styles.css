@@ -57,10 +57,10 @@ li {
 li a {
   color: white;
   text-decoration: none;
-  text-align: center;
+  text-align: right;
   font-size: 1.3em;
 }
-li a: hover {
+li a:hover {
   background-color: #ffeccb;
 }
 /*TODO: Create a Flexbox to create a responsive layout. Use the property display: flex;*/
@@ -68,4 +68,9 @@ li a: hover {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.project {
+  padding-top: 2em;
+  padding-bottom: 1em;
 }
