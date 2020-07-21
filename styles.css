@@ -110,4 +110,8 @@ li a:hover {
 }
 .blog {
   padding: 50px;
+   display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
 }
