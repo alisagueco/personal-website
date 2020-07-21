@@ -26,11 +26,20 @@ p {
 
 /* Name displayed on Home Page*/
 h1 {
-  font-size: 2.5em;
+  font-size: 4em;
   color: coral;
   font-family: "Poiret One", cursive;
 }
-
+h2 {
+   font-size: 2.5em;
+  color: coral;
+  font-family: "Poiret One", cursive;
+}
+title {
+     font-size: 2.5em;
+  color: coral;
+  font-family: "Poiret One", cursive;
+}
 /* Round image of myself on home page*/
 #main-img {
   border-radius: 50%;
