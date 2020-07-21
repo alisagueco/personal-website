@@ -42,7 +42,8 @@ h1 {
 }
 /* Portfolio Images */
 .port-img {
-  
+  border-radius: 10%;
+  max-height: 20em;
 }
 
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
