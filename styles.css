@@ -59,6 +59,7 @@ title {
 .port-img {
   border-radius: 10%;
   max-height: 20em;
+  max-width: 100%;
 }
 /* SIP Image on blog */
 #sip-img {
@@ -66,6 +67,9 @@ title {
   margin-top: 1em;
   margin-bottom: 1em;
   border: 5px solid coral;
+  max-width: 50%;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
@@ -116,4 +120,6 @@ li a:hover {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  
+ style="margin-left: 375px;"
 }
