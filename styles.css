@@ -68,8 +68,7 @@ title {
   margin-bottom: 1em;
   border: 5px solid coral;
   max-width: 50%;
-  margin-right: auto;
-  margin-left: auto;
+  
 }
 
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
@@ -121,5 +120,5 @@ li a:hover {
   flex-wrap: wrap;
   justify-content: space-evenly;
   
- style="margin-left: 375px;"
+ 
 }
