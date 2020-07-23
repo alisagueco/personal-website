@@ -29,6 +29,7 @@ h1 {
   color: coral;
   font-family: "Poiret One", cursive;
   text-align: center;
+  padding-top: 1.5em;
 }
 /* About Me displayed on Home Page*/
 h2 {
@@ -36,7 +37,9 @@ h2 {
   color: coral;
   font-family: "Poiret One", cursive;
   text-align: center;
+  padding-
 }
+/* Dates on BLog Page*/
 h4 {
   color: grey;
 }
