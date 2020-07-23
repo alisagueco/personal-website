@@ -37,9 +37,8 @@ h2 {
   color: coral;
   font-family: "Poiret One", cursive;
   text-align: center;
-  padding-
 }
-/* Dates on BLog Page*/
+/* Dates on Blog Page*/
 h4 {
   color: grey;
 }
@@ -70,11 +69,10 @@ title {
   margin-top: 1em;
   margin-bottom: 1em;
   border: 5px solid coral;
-  max-width: 50%;
+  max-width: 100%;
   display: block;
   margin-left: auto;
   margin-rigt: auto;
-  
 }
 
 /*TODO: Style the Nav Bar by selecting the u1, li, and li a elements*/
@@ -96,7 +94,7 @@ li a {
   text-align: left;
   font-size: 1.5em;
   font-family: "Poiret One", cursive;
-  padding: 8px;
+  padding: 10px;
 }
 li a:hover {
   background-color: #ffeccb;
@@ -126,11 +124,8 @@ li a:hover {
 /* Flexbox for Blog Page */
 .blog {
   padding: 50px;
-   display: flex;
+  display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-evenly;
-  
-  
- 
 }
