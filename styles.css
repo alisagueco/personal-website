@@ -71,6 +71,9 @@ title {
   margin-bottom: 1em;
   border: 5px solid coral;
   max-width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-rigt: auto;
   
 }
 
@@ -79,9 +82,13 @@ ul {
   list-style-type: none;
   background-color: coral;
   width: 100%;
+  position: fixed;
+  top: 0;
+  width: 100%;
 }
 li {
   display: inline;
+  border-right: 1px solid white;
 }
 li a {
   color: white;
@@ -89,6 +96,7 @@ li a {
   text-align: left;
   font-size: 1.5em;
   font-family: "Poiret One", cursive;
+  padding: 8px;
 }
 li a:hover {
   background-color: #ffeccb;
@@ -122,6 +130,7 @@ li a:hover {
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  
   
  
 }
